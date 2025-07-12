@@ -1,6 +1,6 @@
 ---
 title: How I Actually Started Into the Object Detection
-published: 2025-07-08
+published: 2020-08-04
 description: A hands-on introduction to object detection using YOLO and Darknet, exploring how real-time computer vision works and how it can be applied in practical, everyday scenarios — from robotics to recognizing traffic and food. Also includes ethical reflections on the technology's impact.
 
 tags: [Computer Vision, Machine Learning, AI]
@@ -127,11 +127,7 @@ But this is just the beginning.
 If you’re curious to go further, here are a few directions:
 
 - **Train YOLO on your own dataset**: Try annotating your own images and training a custom object detector.
-- **Explore newer YOLO versions**: YOLOv4, YOLOv5, and YOLOv8 have brought in new techniques like data augmentation, transfer learning, and real-time edge deployment.
-- **Switch to PyTorch or TensorFlow**: Modern YOLO variants are implemented in more flexible frameworks than Darknet.
 - **Dig into applications**: From autonomous systems to assistive devices, object detection is a key part of broader AI systems — and a skill that opens many doors.
-
-And as we’ve discussed in the epilogue, don't forget to reflect on the **social implications** of the tools you build.
 
 ## Reference
 
