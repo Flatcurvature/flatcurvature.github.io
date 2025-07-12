@@ -7,4 +7,4 @@ tags: [Software Engineering, Machine Learning, AI]
 category: Software Infrastructure
 draft: false
 ---
-fuck
+fuck wth happened
