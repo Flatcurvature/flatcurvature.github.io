@@ -8,6 +8,8 @@ category: Software Infrastructure
 draft: false
 ---
 
+> Cover image source: [Source](https://unsplash.com/photos/a-laptop-on-a-table-QZePhoGqD7w)
+
 When you start exploring MLOps, you'll often run into fancy tools like **SageMaker**, **S3**, **Google AutoML**, **AzureML**, and others. But you don't need to get FOMO and jump into them immediately because **MLOps is not a platform**. You can begin with a simple and free setup that works.
 
 Note: This tutorial is not only designed for entry-level practitioners. I know lot of people doing rustic architecture at scales, no shame, including myself because why not as long as it works and costs less money. You might need more complexity as your system or business scales, but you can always learn on your way.

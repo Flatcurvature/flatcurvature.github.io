@@ -8,6 +8,7 @@ category: AI
 draft: false
 ---
 
+> Cover image source: [Source](https://unsplash.com/photos/surveillance-footage-shows-a-person-under-red-detection-16iRt-FsVgY)
 
 This time I will write the most basic fundamental, maybe younger people like you never encountered Darknet and YOLO Object Detection, so I want to give some tutorial on it since it is a fundamental one. I knew them from humanoid robot research, which needs computer vision and machine learning to detect an object. Since I am a big fan of C++ (to differ me upon what so-called as “modern-time data scientist hype guys”, I know how to code in C++ and actually I am fast). I am a big fan of this model, and I would like to introduce it.
 
