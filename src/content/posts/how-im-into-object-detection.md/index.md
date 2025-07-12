@@ -1,6 +1,7 @@
 ---
 title: How I Actually Started Into the Object Detection
 published: 2020-08-04
+image: "./cover.jpeg"
 description: A hands-on introduction to object detection using YOLO and Darknet, exploring how real-time computer vision works and how it can be applied in practical, everyday scenarios — from robotics to recognizing traffic and food. Also includes ethical reflections on the technology's impact.
 
 tags: [Computer Vision, Machine Learning, AI]
