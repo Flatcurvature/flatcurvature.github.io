@@ -1,5 +1,5 @@
 ---
-title: Cryptography for Data Security: How to Secure Your Big Data with RSA and AES
+title: "Cryptography for Data Security: How to Secure Your Big Data with RSA and AES"
 published: 2025-01-04
 image: "./cover.jpeg"
 description: >
