@@ -4,7 +4,7 @@ published: 2025-01-04
 image: "./cover.jpeg"
 description: This post introduces hybrid cryptography for securing large datasets by combining RSA (for key encryption) and AES (for data encryption). Ideal for anyone looking to secure big data at rest or in transit using industry-standard cryptographic techniques.
 
-tags: [Data Security, Security, Cryptography]
+tags: [Data Security, Data, Security, Cryptography]
 category: Security
 draft: false
 ---
