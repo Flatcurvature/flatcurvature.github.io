@@ -9,8 +9,6 @@ category: Software Infrastructure
 draft: false
 ---
 
-> Reading time: 30 minutes
-
 > Cover image source: [Source](https://unsplash.com/photos/a-laptop-on-a-table-QZePhoGqD7w)
 
 When you start exploring MLOps, you'll often run into fancy tools like **SageMaker**, **S3**, **Google AutoML**, **AzureML**, and others. But you don't need to get FOMO and jump into them immediately because **MLOps is not a platform**. You can begin with a simple and free setup that works.

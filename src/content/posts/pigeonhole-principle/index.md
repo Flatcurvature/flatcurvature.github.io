@@ -8,8 +8,6 @@ category: Math
 draft: false
 ---
 
-> Reading time: 10 minutes
-
 > Cover image source: [Source](https://static.wikia.nocookie.net/toriko/images/d/d7/-A-Destiny_SGKK-Toriko-_07_%281280x720_H264_AAC%29_-5CB1DAD4-_20110602-14332199.jpg/revision/latest/scale-to-width-down/1000?cb=20110826175155)
 
 The Pigeonhole Principle is a basic idea in mathematics:

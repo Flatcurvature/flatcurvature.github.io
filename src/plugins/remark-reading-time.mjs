@@ -5,7 +5,9 @@ import getReadingTime from "reading-time";
 export function remarkReadingTime() {
 	return (tree, { data }) => {
 		const textOnPage = toString(tree);
-		const readingTime = getReadingTime(textOnPage);
+		const readingTime = getReadingTime(textOnPage, {
+			wordsPerMinute: 150, // Adjusted for a more realistic reading pace
+		});
 		data.astro.frontmatter.minutes = Math.max(
 			1,
 			Math.round(readingTime.minutes),

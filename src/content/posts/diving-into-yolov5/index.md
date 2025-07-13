@@ -8,8 +8,6 @@ category: AI
 draft: false
 ---
 
-> Reading time: 15 minutes
-
 > Cover image source: [Source](https://www.pixiv.net/en/artworks/130934677)
 
 
