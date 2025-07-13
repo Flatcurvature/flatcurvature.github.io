@@ -17,10 +17,6 @@ For example, consider a healthcare analytics company that processes large volume
 
 In this post, we’ll explore how to secure large data sets using a hybrid cryptographic system that combines the strength of RSA and AES.
 
-
-
-In this post, we’ll explore how to secure large data sets using a hybrid cryptographic system that combines the strength of RSA and AES.
-
 ## Why Not Just Use RSA or AES Alone?
 
 - RSA is excellent for key exchange, but inefficient for encrypting large files.
