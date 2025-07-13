@@ -2,7 +2,7 @@
 title: "NLP Getting Started: Classical GloVe–LSTM and Into BERT for Disaster Tweet Analysis"
 published: 2020-12-09
 image: "./cover.jpeg"
-description: Step-by-step guide: from word embeddings with GloVe and LSTM to fine-tuning BERT for analyzing disaster-related tweets.
+description: Step-by-step guide from word embeddings with GloVe and LSTM to fine-tuning BERT for analyzing disaster-related tweets.
 tags: [NLP, Machine Learning, Language Model]
 category: AI
 draft: false
