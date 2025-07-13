@@ -68,7 +68,7 @@ From both a development and usability perspective, YOLOv5 is clearly built with 
 
 ## Conclusion
 
-YOLOv5 shows real promise, not only for its inference speed (sub-50 ms even on modest GPUs) but also for its usability. Whether you’re a researcher or a hobbyist, its plug-and-play nature, combined with PyTorch makes it an easier option for modern computer vision tasks.
+YOLOv5 shows promise for its usability, which combined with PyTorch makes it an easier option for modern computer vision tasks.
 
 While it may be controversial ([there is an interesting writing](https://medium.com/augmented-startups/yolov5-controversy-is-yolov5-real-20e048bebb08)) due to its unofficial status in the YOLO family, since I saw it like the original project was abandoned because of the owner's concern, then a company taking it over for their business product, YOLOv5 has some practical performance. For anyone getting into real-time object detection or prototyping vision applications, it's worth exploring.
 
