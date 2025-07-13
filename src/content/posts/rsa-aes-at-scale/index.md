@@ -14,6 +14,7 @@ draft: false
 ---
 
 > Reading time: 30 minutes
+
 > Cover image source: [Source](https://i.pximg.net/img-master/img/2025/06/09/02/00/54/131346494_p0_master1200.jpg)
 
 Storing sensitive data — from customer records to scientific datasets — comes with serious responsibility. You must ensure that the data remains confidential, even in the event of a breach. That’s where cryptography step in.
