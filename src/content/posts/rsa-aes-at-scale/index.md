@@ -13,6 +13,7 @@ tags:
 category: Security
 draft: false
 ---
+
 > Reading time: 30 minutes
 > Cover image source: [Source](https://i.pximg.net/img-master/img/2025/06/09/02/00/54/131346494_p0_master1200.jpg)
 
@@ -31,7 +32,7 @@ So, we combine them:
 1. Use **AES** to encrypt the large data.
 2. Use **RSA** to encrypt the AES key.
 
-This is how most real-world systems (including HTTPS) work.
+This is how most real-world systems (including HTTPS) works.
 
 ## Step-by-Step Encryption Process
 
