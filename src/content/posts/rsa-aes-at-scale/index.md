@@ -55,35 +55,35 @@ Store both in a secure format, ready for transfer or storage.
 
 ### AES (Symmetric Encryption)
 
-For data block \( M \) and key \( K \), the ciphertext \( C \) is:
+For data block $M$ and key $K$, the ciphertext $C$ is:
 
-\[
+$$
 C = \text{AES}_K(M)
-\]
+$$
 
 Decryption:
 
-\[
+$$
 M = \text{AES}^{-1}_K(C)
-\]
+$$
 
 ### RSA (Asymmetric Key Encryption)
 
 Given a key pair:
-- Public key: \( (e, n) \)
-- Private key: \( (d, n) \)
+- Public key: $(e, n)$  
+- Private key: $(d, n)$
 
-To encrypt the AES key \( K \):
+To encrypt the AES key $K$:
 
-\[
+$$
 K_{\text{enc}} = K^e \mod n
-\]
+$$
 
 To decrypt:
 
-\[
+$$
 K = K_{\text{enc}}^d \mod n
-\]
+$$
 
 ## Example Case
 
