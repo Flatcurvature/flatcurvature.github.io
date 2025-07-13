@@ -79,7 +79,21 @@ We group the numbers into the following 4 pairs:
 
 Each pair is a “pigeonhole” If you select 5 numbers (pigeons), the pigeonhole principle guarantees that one of the pairs is fully selected — so the two numbers in it will sum to 9.
 
----
+### Cybersecurity Example: Hash Collisions
+
+In cybersecurity, the pigeonhole principle explains why hash collisions are inevitable.
+
+A hash function maps input data (of arbitrary size) to fixed-size outputs. For example, SHA-256 produces a 256-bit output. That gives us:
+
+$$
+2^{256} \text{ possible outputs}
+$$
+
+That number is huge but still finite.
+
+Now suppose you're hashing files. The number of possible files is infinite (or at least far larger than \( 2^{256} \)). So if you keep hashing enough files, eventually two different files will map to the same hash — this is called a collision.
+
+This principle is the reason why collision resistance is in a sense should be considered as design requirement for cryptographic hash functions. If an attacker can deliberately create two inputs with the same hash, it breaks the integrity of systems like digital signatures or file verification.
 
 ### Final Note
 
@@ -92,3 +106,5 @@ $$
 References:
 - [AoPS: Pigeonhole Principle](https://artofproblemsolving.com/wiki/index.php/Pigeonhole_Principle)
 - [Wikipedia: Birthday problem](https://en.wikipedia.org/wiki/Birthday_problem)
+
+---
