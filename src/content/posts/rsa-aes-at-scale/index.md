@@ -3,8 +3,7 @@ title: "Cryptography for Data Security: How to Secure Your Big Data with RSA and
 published: 2025-01-04
 image: "./cover.jpeg"
 description: >
-  This post introduces hybrid cryptography for securing large datasets by combining RSA (for key encryption) and AES (for data encryption).
-  Ideal for anyone looking to secure big data at rest or in transit using industry-standard cryptographic techniques.
+  This post introduces hybrid cryptography for securing large datasets by combining RSA (for key encryption) and AES (for data encryption). Ideal for anyone looking to secure big data at rest or in transit using industry-standard cryptographic techniques.
 tags:
   - Data Security
   - Data
