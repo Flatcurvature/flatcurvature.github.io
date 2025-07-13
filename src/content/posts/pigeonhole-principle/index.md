@@ -1,8 +1,8 @@
 ---
-title: The Pigeonhole Principle: Simple Idea, Big Impact
+title: "The Pigeonhole Principle"
 published: 2020-02-13
 image: "./cover.jpeg"
-description: A counting idea that shows up in many parts of daily things — if you have more items than containers, at least one container has to hold more than one item.
+description: A counting idea that shows up in many parts of daily things if you have more items than containers, at least one container has to hold more than one item.
 tags: [Mathematics, Combinatorics, Logic]
 category: Math
 draft: false
